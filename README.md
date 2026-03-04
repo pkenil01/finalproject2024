@@ -1,4 +1,4 @@
-# finalproject2024
+# Final Project - Algorithms & Data Structures (2024)
 
 To run the code, install the NetworkX and MatPlotLib libraries for Python to your PATH. 
 Click 'run' to start the program. Once the program begins, enter a starting node from the given options (A-W). 
